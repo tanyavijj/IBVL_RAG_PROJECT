@@ -1,0 +1,35 @@
+﻿langchain==0.3.25
+langchain-core==0.3.58
+langchain-community==0.3.23
+langchain-ollama==0.3.2
+langchain-chroma==0.2.2
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.8
+pypdf==4.3.1
+pymupdf
+docx2txt
+sentence-transformers
+chromadb==0.6.3
+faiss-cpu
+streamlit
+crawl4ai
+openpyxl
+pandas
+numpy
+
+# langchain
+# langchain-core
+# langchain-community
+# langchain-ollama
+# langchain-experimental
+# langchain-huggingface
+# pypdf
+# pymupdf
+# docx2txt
+# sentence-transformers
+# chromadb
+# faiss-cpu
+# streamlit
+# crawl4ai
+# openpyxl
+# pandas

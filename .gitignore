@@ -1,0 +1,6 @@
+venv/
+chroma_db/
+__pycache__/
+node_modules/
+faiss_db/
+*.pyc
